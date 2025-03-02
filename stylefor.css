@@ -1,4 +1,7 @@
 #main{
-    width: 950px;
-    margin: 0 2;
+    width: 1400px;
+    margin: 0 auto;
+    line-height: 1.5;
+    box-sizing: border-box;
+
 }
