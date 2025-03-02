@@ -1,4 +1,19 @@
-#main{
-    width: 950px;
-    margin: 0 2;
+.container{
+    background-color: brown;
+    padding: 1em 3em;
+}
+
+nav{
+    background-color: burlywood;
+}
+
+.nav-list {
+    display: flex;
+    gap: 30px;
+}
+
+.nav-list > li a {
+    list-style: none;
+    text-decoration: none;
+    font-size: 2.2em;
 }
